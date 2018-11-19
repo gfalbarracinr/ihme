@@ -1,0 +1,100 @@
+#cieloCarousel {
+  margin-top: 20px;
+  margin-bottom: 40px; }
+
+.carousel-inner {
+  width: 85%;
+  vertical-align: middle;
+  margin: auto; }
+  .carousel-inner > .item {
+    padding-top: 10px; }
+
+.carousel-indicators {
+  bottom: -40px; }
+
+.carousel-control {
+  width: 5%; }
+
+.header-carousel {
+  height: 716px;
+  margin-top: 40px;
+  background-repeat: repeat;
+  color: #fff;
+  text-align: center; }
+  .header-carousel.cielo-sales {
+    background-image: url("/wordpress/wp-content/themes/ihme/images/CieloSales-header.jpg");
+    background-position: 50% 50%;
+    background-size: cover; }
+
+.carousel-caption {
+  top: 0;
+  bottom: auto;
+  left: 0%;
+  right: 0%; }
+  .carousel-caption > .sales-heading {
+    line-height: 110%; }
+
+@media screen and (min-width: 1401px) {
+  .header-carousel {
+    height: 920px; } }
+
+@media (max-width: 1400px) {
+  .header-carousel {
+    height: 700px; } }
+
+@media (max-width: 1300px) {
+  .header-carousel {
+    height: 600px; }
+  #cieloCarousel {
+    margin-top: 5px;
+    padding-top: 3px; }
+  .sales-heading {
+    font-size: 38px; } }
+
+@media (max-width: 1065px) {
+  .header-carousel {
+    height: 500px; }
+  #cieloCarousel {
+    margin-top: 5px;
+    padding-top: 3px; }
+  .sales-heading {
+    font-size: 38px; } }
+
+@media (max-width: 767px) {
+  .header-carousel {
+    height: 420px; }
+  #cieloCarousel {
+    margin-top: 5px;
+    padding-top: 3px; }
+  .carousel-inner > .item {
+    padding-top: 1px; } }
+
+@media (max-width: 479px) {
+  .header-carousel {
+    height: 250px; }
+  #cieloCarousel {
+    margin-top: 2px;
+    padding-top: 3px; }
+  .carousel-inner > .item {
+    padding-top: 1px; }
+  .carousel-indicators {
+    font-size: 2px;
+    line-height: 2px;
+    font-weight: 100;
+    margin-bottom: 0px; } }
+
+.carousel-control.right {
+  background-image: none;
+  filter: none;
+  color: #163A5D; }
+
+.carousel-control.left {
+  background-image: none;
+  filter: none;
+  color: #163A5D; }
+
+.carousel-indicators li {
+  border: 1px solid #064a9c; }
+
+.carousel-indicators .active {
+  background-color: #064a9c; }

@@ -1,0 +1,87 @@
+[2018-11-18 15:52:58.114] [sharedprocess] [info] main {"machineId":"98fdb90a837d6d6d73faa5e3396490c916ef4b026893cd6d46dcd8847dcbf452"}
+[2018-11-18 15:52:58.208] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:52:58.302] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 15:52:58.315] [sharedprocess] [info] Deleted from disk redhat.java-0.33.0
+[2018-11-18 15:52:58.764] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:52:58.793] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:52:58.803] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:52:58.879] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 15:52:58.885] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 15:52:59.392] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:53:08.379] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:53:08.387] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:53:08.397] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:53:08.498] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 15:53:08.504] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 15:53:08.945] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 15:53:38.122] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-11-18 15:58:09.025] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 16:03:09.065] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 16:04:44.447] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 16:04:44.542] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 16:04:44.547] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 16:04:44.550] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 16:04:44.657] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:04:44.660] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:04:44.664] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:04:51.741] [sharedprocess] [info] Installing extension: prettier-vscode
+[2018-11-18 16:04:51.760] [sharedprocess] [info] Scanned user extensions: 15
+[2018-11-18 16:05:04.671] [sharedprocess] [info] Downloaded extension: prettier-vscode /tmp/89dd8284-7c9d-4c6c-a8a6-6f158d296503
+[2018-11-18 16:05:21.263] [sharedprocess] [info] Extracted extension to /home/giovanny/.vscode/extensions/.esbenp.prettier-vscode-1.7.2: esbenp.prettier-vscode-1.7.2
+[2018-11-18 16:05:21.264] [sharedprocess] [info] Renamed to /home/giovanny/.vscode/extensions/esbenp.prettier-vscode-1.7.2
+[2018-11-18 16:05:21.264] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode-1.7.2
+[2018-11-18 16:05:21.313] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2018-11-18 16:05:21.459] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:05:21.480] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:05:41.419] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:05:41.425] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:05:41.426] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:05:41.432] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:05:41.438] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:05:41.450] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:05:41.561] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:05:41.565] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:05:41.570] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:05:41.576] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:05:42.158] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:07:59.807] [sharedprocess] [info] Installing extension: prettier-now
+[2018-11-18 16:07:59.826] [sharedprocess] [info] Scanned user extensions: 16
+[2018-11-18 16:08:11.273] [sharedprocess] [info] Downloaded extension: prettier-now /tmp/f40f12f6-167a-46c0-81c9-1afda245c468
+[2018-11-18 16:08:18.248] [sharedprocess] [info] Extracted extension to /home/giovanny/.vscode/extensions/.remimarsal.prettier-now-1.4.9: remimarsal.prettier-now-1.4.9
+[2018-11-18 16:08:18.249] [sharedprocess] [info] Renamed to /home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9
+[2018-11-18 16:08:18.252] [sharedprocess] [info] Installation completed. remimarsal.prettier-now-1.4.9
+[2018-11-18 16:08:18.314] [sharedprocess] [info] Extensions installed successfully: remimarsal.prettier-now
+[2018-11-18 16:08:18.519] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:08:18.582] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:08:21.743] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:08:21.746] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:08:21.752] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:08:21.756] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:08:21.762] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:08:21.771] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:08:21.878] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:08:21.882] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:08:21.886] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:08:21.889] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:08:22.742] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:10:02.813] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:10:02.823] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:10:02.843] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:10:03.122] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:10:03.137] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:10:03.154] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-18 16:13:22.901] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:18:22.937] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:23:22.959] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:28:22.988] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:33:23.161] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:38:23.212] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:43:23.268] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:48:23.593] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:53:24.094] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 16:58:24.135] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 17:03:24.162] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 17:08:24.195] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 17:13:24.302] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 17:18:24.372] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-18 17:23:24.433] [sharedprocess] [info] Scanned user extensions: 17

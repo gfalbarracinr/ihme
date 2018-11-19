@@ -1,0 +1,235 @@
+[2018-11-18 15:52:58.645] [renderer1] [info] no standard startup: not the explorer viewlet
+[2018-11-18 15:53:08.140] [renderer1] [info] no standard startup: not just one text editor
+[2018-11-18 16:05:41.531] [renderer1] [info] no standard startup: not a new window
+[2018-11-18 16:08:21.829] [renderer1] [info] no standard startup: not a new window
+[2018-11-18 16:09:47.743] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:24:11.002] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:24:42.389] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:26:34.791] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:26:41.962] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:26:52.125] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:26:55.542] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:26:57.790] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:30:29.869] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:38:44.954] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2018-11-18 16:38:47.902] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at vscode_1.window.onDidChangeActiveTextEditor (/home/giovanny/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/status.js:44:74)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:237
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:488:823)
+    at t._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:888)
+    at t._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:640:554)
+    at t._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:639:126)
+    at t._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:638:59)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:635:926
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:138
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:99:496)
+    at a (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:213)
+    at Socket._socketDataListener (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:154:432)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
